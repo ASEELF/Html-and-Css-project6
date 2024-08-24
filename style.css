@@ -1,0 +1,729 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+
+}
+
+.container{
+    margin-top:180px;
+    margin-left: 120px;
+    background-color:#10182F ;
+    width:1300px;
+    
+    height:350px;
+    color:#BFBFBF;
+    border-radius: 8px;
+    display:flex;
+    
+} 
+
+.info{
+    margin-top:62px;
+    margin-left: 65px;
+    margin-right:96px;
+}
+.explore{
+    margin-top:60px;
+    margin-left: 65px;
+    margin-right:60px;
+    width:220px;
+}
+.explore p{
+    font-size: 20px;
+    color:#fff;
+    margin-bottom:24px;
+}
+.legal{
+    margin-top:60px;
+    
+    margin-right:9px;
+    width:300px;
+}
+.legal p{ 
+    font-size: 20px;
+    color:#fff;
+    margin-bottom:24px;
+}
+.newsletter{
+    margin-top:60px;
+}
+.newsletter .p{
+    font-size: 20px;
+    color:#fff;
+    margin-bottom:24px;
+}
+
+.info-container a{
+    text-decoration: none;
+    color:#AFB6C7;
+    font-size: 16px;
+}
+.info p{
+    font-size: 20px;
+    color:#fff;
+    margin-bottom:24px;
+}
+
+.info-container .link {
+    margin-bottom:12px;
+}
+
+.info-container .link a{
+    color:#bfbfbf;
+}
+
+
+.info-container .link a:hover{
+    color:#fff;
+}
+
+
+.newsletter-container p{
+color:#bfbfbf;
+font-size:17px;
+font-weight:400;
+margin-bottom:3px;
+
+}
+
+.newsletter-container div{
+   margin-bottom:15px;
+    
+ }
+ .email-sub-cont{
+        display:flex;
+ }
+
+ .email-sub-cont input{
+    width:190px;
+    height:40px;
+    border: 0px solid;
+    border-radius: 5px;
+    background-color:#10182F ;
+    outline: 1px solid #7489C6;
+    padding-left:7px;
+    padding-top:2px;
+    margin-right:5px;
+    
+    
+ }
+
+
+
+  ::placeholder{
+
+  color:#bfbfbf;
+  font-size: 13px;
+ }
+
+
+ 
+ .email-sub-cont button{
+    width: 98px;
+    height:40px;
+    border-radius: 5px;
+    background-color: #fff;
+    font-size: 15px;
+    border:0px solid;
+    padding-top:2px;
+ }
+
+ .icons{
+    display:flex;
+ }
+
+ 
+.icons .face img{
+    width:17px;
+    height:17px;
+    margin-right:25px;
+}
+
+
+
+@media only screen and (max-width: 1500px) {
+   
+.container{
+margin-left:110px;
+   
+    
+    
+}   
+  }
+
+  
+@media only screen and (max-width: 1470px) {
+   
+    .container{
+    margin-left:90px;
+       
+        
+        
+    }   
+      }
+    
+      
+@media only screen and (max-width: 1450px) {
+   
+    .container{
+    margin-left:70px;
+       
+        
+        
+    }   
+      }
+          
+@media only screen and (max-width: 1440px) {
+   
+    .container{
+    margin-left:60px;  
+    } 
+  
+ 
+.info{
+    margin-right: 80px;
+}
+
+.explore{
+    margin-right: 50px;
+}
+
+.legal{
+    margin-right: 5px;
+}
+      }
+   
+      
+      
+
+          
+@media only screen and (max-width: 1410px) {
+   
+    .container{
+    margin-left:50px;  
+    } 
+  
+ 
+.info{
+    margin-right: 70px;
+}
+
+.explore{
+    margin-right: 40px;
+}
+
+.legal{
+    margin-right: 4px;
+}
+      }
+   
+          
+@media only screen and (max-width: 1400px) {
+   
+    .container{
+    margin-left:50px;
+    
+    } 
+  
+ 
+.info{
+    margin-right: 70px;
+}
+
+.explore{
+    margin-right: 40px;
+}
+
+.legal{
+    margin-right: 4px;
+}
+      }
+
+               
+@media only screen and (max-width: 1380px) {
+   
+    .container{
+    margin-left:40px;
+    
+    } 
+  
+ 
+.info{
+    margin-right: 60px;
+}
+
+.explore{
+    margin-right: 30px;
+}
+
+.legal{
+    margin-right: 4px;
+}
+      }
+   
+
+
+              
+@media only screen and (max-width: 1365px) {
+   
+    .container{
+    margin-left:30px;
+    
+    } 
+  
+ 
+.info{
+    margin-right: 55px;
+}
+
+.explore{
+    margin-right: 25px;
+}
+
+.legal{
+    margin-right: 4px;
+}
+      }
+                  
+@media only screen and (max-width: 1340px) {
+   
+    .container{
+    margin-left:25px;
+    } 
+  
+ 
+.info{
+    margin-right:45px;
+}
+
+.explore{
+    margin-right: 20px;
+}
+
+.legal{
+    margin-right: 4px;
+}
+      }
+   
+
+                  
+@media only screen and (max-width: 1330px) {
+   
+    .container{
+    width:1285px;
+    
+    } 
+  
+ 
+.info{
+    margin-right: 50px;
+}
+
+.explore{
+    margin-right: 20px;
+}
+
+.legal{
+    margin-right: 4px;
+}
+      }
+ 
+      
+@media only screen and (max-width: 1315px) {
+   
+    .container{
+    width:1265px;
+    
+    } 
+  
+               
+.legal{
+    
+    width:250x;
+}
+      }
+   
+                      
+@media only screen and (max-width: 1300px) {
+   
+    .container{
+    width:1255px;
+    margin-left:20px;
+    
+    } 
+  
+ 
+.info{
+    margin-right: 40px;
+}
+
+.explore{
+    margin-right: 15px;
+}
+
+      }
+
+                    
+@media only screen and (max-width: 1280px) {
+   
+    .container{
+    width:1230px;
+    margin-left:10px;
+    
+    } 
+  
+ 
+.info{
+    margin-right: 45px;
+}
+
+.explore{
+    margin-right: 18px;
+}
+
+      }
+                      
+@media only screen and (max-width: 1250px) {
+   
+    .container{
+    width:1200px;
+    margin-left:10px;
+    
+    } 
+  
+ 
+      }   
+                   
+      @media only screen and (max-width: 1215px) {
+   
+        .container{
+        width:1150px;
+        margin-left:8px;
+        
+        } 
+      
+     
+    
+          }
+      
+      
+                
+          @media only screen and (max-width: 1165px) {
+   
+            .container{
+            width:1125px;
+            margin-left:6px;
+            
+            } 
+          
+         
+        .info{
+            margin-right: 40px;
+        }
+        
+        .explore{
+            margin-right: 15px;
+        }
+        
+              }
+
+                
+              @media only screen and (max-width: 1135px) {
+   
+                .container{
+                    width:1100px;
+                margin-left:6px;
+                
+                } 
+              
+             
+            .info{
+                margin-right: 35px;
+            }
+            
+            .explore{
+                margin-right: 12px;
+            }
+            
+.legal{
+    margin-right: 1px;
+    width:200px;
+}
+                  }
+
+                   
+              @media only screen and (max-width: 1111px) {
+   
+                .container{
+                    width:1050px;
+                margin-left:4px;
+                
+                } 
+              
+             
+            .info{
+                margin-right: 25px;
+            }
+            
+            .explore{
+                margin-right: 10px;
+            }
+            
+.legal{
+    margin-right: 1px;
+    width:180x;
+}
+                  }
+    
+
+                       
+              @media only screen and (max-width: 1057px) {
+   
+                .container{
+                    width:1020px;
+                margin-left:4px;
+                
+                } 
+              
+             
+            .info{
+                margin-right: 20px;
+            }
+            
+            .explore{
+                margin-right: 5px;
+            }
+  
+                  }
+
+                  
+                       
+              @media only screen and (max-width: 1027px) {
+   
+                .container{
+                    width:1000px;
+                margin-left:4px;
+                
+                } 
+              
+             
+            .info{
+                margin-right: 20px;
+            }
+            
+            .explore{
+                margin-right: 5px;
+            }
+  
+                  }
+    
+                          
+              @media only screen and (max-width: 1000px) {
+   
+                .container{
+                    width:920px;
+                    height:650px;
+                margin-left:40px;
+                margin-top:22px;
+                display:grid;
+                grid-template-columns: 1fr 1fr 1fr;
+                } 
+              
+                .explore{
+                    margin-right:80px;
+                }
+             .newsletter{
+              margin-left:60px;
+              grid-column: 1/3;
+             }
+  
+                  }
+
+                            
+              @media only screen and (max-width: 990px) {
+   
+                .container{
+                   
+                margin-left:30px;
+                
+                } 
+              .info{
+                margin-right: 10px;
+              }
+                .explore{
+                    margin-right:40px;
+                }
+                
+  
+                  }
+                               
+              @media only screen and (max-width: 960px) {
+   
+                .container{
+                   
+                margin-left:20px;
+                
+                } 
+                
+                .explore{
+                    margin-left:20px;
+                    margin-right:40px;
+                }
+                
+  
+                  }
+                                  
+              @media only screen and (max-width: 950px) {
+   
+                .container{
+                   
+                margin-left:10px;
+                
+                } 
+                
+                .explore{
+                    margin-left:10px;
+                    margin-right:40px;
+                }
+                
+  
+                  }
+                                     
+              @media only screen and (max-width: 945px) {
+   
+                .container{
+                   
+                margin-left:10px;
+                
+                } 
+                
+                .explore{
+
+                    width:150px;
+                    margin-left:5px;
+                    margin-right:20px;
+                }
+                
+  
+                  }
+
+                                       
+              @media only screen and (max-width: 935px) {
+   
+                .container{
+                    width:900px;
+            
+                
+                } 
+                
+  
+                  }
+                                          
+              @media only screen and (max-width: 909px) {
+   
+                .container{
+                    width:850px;
+                
+                } 
+                
+                
+  
+                  }
+    
+
+                                              
+              @media only screen and (max-width: 860px) {
+   
+                .container{
+                    width:800px;
+               
+                
+                } 
+                
+  
+                  }
+                                                  
+              @media only screen and (max-width: 816px) {
+   
+                .container{
+                    width:750px;
+                margin-left:10px;
+                
+                } 
+                  }
+                                   
+                  @media only screen and (max-width: 860px) {
+   
+                    .container{
+                        width:800px;
+                   
+                    
+                    } 
+                    
+      
+                      }
+                      @media only screen and (max-width: 821px) {
+   
+                        .container{
+                            width:750px;
+                            margin-left:5px;
+                       
+                        
+                        } 
+                        
+          
+                          }
+
+
+                                                      
+                  @media only screen and (max-width: 762px) {
+       
+                    .container{
+                        margin:0px;
+                        width:100%;
+                        border-radius: 0px;
+                    
+                    
+                    } 
+                    .newsletter{
+                        grid-column: 1/3;
+                    }
+                      }
+                        /*                                 
+                  @media only screen and (max-width: 718px) {
+       
+                    .container{
+                        width:650px;
+                
+                    
+                    } 
+                      }
+
+                                                            
+                  @media only screen and (max-width: 672px) {
+       
+                    .container{
+                        width:600px;
+                
+                    
+                    } 
+                      }
+
+                                                                
+                  @media only screen and (max-width: 622px) {
+       
+                    .container{
+                        width:550px;
+                
+                    
+                    } 
+                      }
+                    
+
+
+       */
